@@ -10,6 +10,12 @@
 ```
 $ composer require tanak/task-manager
 
+$ php artisan vendor:publish --provider=Tanak\\TaskManager\\TaskManagerServiceProvider
+
+$ php artisan migrate
+
+$ php artisan db:seed --class=TaskManagerSeeder
+
 $ php artisan admin:import task-manager
 ```
 
