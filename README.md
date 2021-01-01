@@ -4,7 +4,6 @@
 
 ## Screenshot
 
-![wx20170809-165225](https://user-images.githubusercontent.com/1479100/29113257-25a9904e-7d23-11e7-95e0-e85d37f79fdd.png)
 
 ## Installation
 
