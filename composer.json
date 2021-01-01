@@ -3,7 +3,7 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/tanak/task-manager",
+    "homepage": "https://github.com/Tanak-Team/Extension-manager-tasks",
     "license": "MIT",
     "authors": [
         {
